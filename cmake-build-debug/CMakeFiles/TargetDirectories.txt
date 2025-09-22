@@ -1,0 +1,3 @@
+D:/Jogo Domino/cmake-build-debug/CMakeFiles/Jogo_Domino.dir
+D:/Jogo Domino/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Jogo Domino/cmake-build-debug/CMakeFiles/rebuild_cache.dir

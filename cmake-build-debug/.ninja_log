@@ -1,0 +1,23 @@
+# ninja log v6
+44	1039	7464673652362442	build.ninja	29b6a36325db07b9
+60	611	7464673439344422	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+614	980	7464673444894063	Jogo_Domino.exe	988ff42e0579a2b3
+10	1016	7464674085760402	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+1018	1420	7464674095843590	Jogo_Domino.exe	988ff42e0579a2b3
+11	569	7515802851893577	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+13	550	7515845019446724	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+551	970	7515845024827350	Jogo_Domino.exe	988ff42e0579a2b3
+13	394	7515848147960212	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+415	757	7515848151985922	Jogo_Domino.exe	988ff42e0579a2b3
+7	275	7515849243654079	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+276	1984	7515849246340137	Jogo_Domino.exe	988ff42e0579a2b3
+6	307	7515849626856505	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+308	601	7515849629883264	Jogo_Domino.exe	988ff42e0579a2b3
+19	483	7515861278904125	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+485	1807	7515861283560774	Jogo_Domino.exe	988ff42e0579a2b3
+24	333	7516045539237487	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+333	580	7516045542330587	Jogo_Domino.exe	988ff42e0579a2b3
+6	186	7516046121102716	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+186	1990	7516046122911153	Jogo_Domino.exe	988ff42e0579a2b3
+113	1057	7692064177029985	CMakeFiles/Jogo_Domino.dir/main.c.obj	f5c13759ae3eb6fb
+1057	1649	7692064186466297	Jogo_Domino.exe	988ff42e0579a2b3
